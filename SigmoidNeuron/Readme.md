@@ -6,4 +6,4 @@ The jupyter notebook contains the class and visualization for it. There is one s
 
 ![Sigmoid function demo](./sigmoid_demo.gif)
 
-We can see that for positive values of `w` we get the normal curve where function is flipped one for negative. Positive values of `b` shift the curve to the left while negative values to the right.
+We can see that for positive values of `w` we get the value of 1 for  $x>\mu_{x}$ whereas the opposite behaviour for negative values. Positive values of `b` shift the curve to the left while negative values to the right.
