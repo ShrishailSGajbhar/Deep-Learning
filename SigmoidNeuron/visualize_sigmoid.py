@@ -18,7 +18,7 @@ def main():
     fig, ax = plt.subplots()
     # Define x
     x = np.linspace(start=-20, stop=20, num=100)
-    ax.plot(sigmoid_function(w,x,b))
+    ax.plot(x,sigmoid_function(w,x,b))
     st.pyplot(fig=fig)
 
 if __name__=="__main__":
