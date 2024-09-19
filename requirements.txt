@@ -4,3 +4,5 @@ jupyter
 matplotlib
 streamlit
 tqdm
+seaborn
+imageio
