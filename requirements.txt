@@ -6,3 +6,4 @@ streamlit
 tqdm
 seaborn
 imageio
+# PyTorch installed using documentation
